@@ -2,7 +2,7 @@
 
 Scikit-learn includes a default dataset to work with called Boston House Prices. I simply cleaned the data, reduced and scaled the features, and trained a number of regression models and predicted prices to see which model would offer the best result. I achieved this by looping through the models and adding them into a pipeline each time.
 
-# Installation
+## Installation
 
 1. Clone or download this repository to your computer.
 2. Install Jupyter Lab (**pip install jupyterlab**).
